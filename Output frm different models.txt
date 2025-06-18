@@ -1,0 +1,7 @@
+Linear Regression Model
+Mean: 8.685687317953902e-14
+Standard Deviation: 2.414720585504569e-14
+
+Random Forest Regressor
+Mean: 4.28320800746665
+Standard Deviation: 1.853007156126473
